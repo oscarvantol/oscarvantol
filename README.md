@@ -5,7 +5,7 @@ I am a father of 4 kids working as a developer/cloud architect in The Netherland
 
 ### 🔭 I’m currently working on
 - Serverless Stuff for #ServerlessSeptember
-- BetaTalks [YouTube](https://www.youtube.com/playlist?list=PLCLCtgDNNiJR_LDx6RT8X50VrKAH3_49B)
+- [betatalks](https://www.youtube.com/playlist?list=PLCLCtgDNNiJR_LDx6RT8X50VrKAH3_49B)
 - virtualvaults.com 
 
 
